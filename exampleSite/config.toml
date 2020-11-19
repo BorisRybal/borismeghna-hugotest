@@ -66,7 +66,7 @@ pre = "#"
 url = "services"
 weight = 2
 [[Languages.fr.menu.main]]
-name = "portefeuille"
+name = "Projets"
 pre = "#"
 url = "portfolio"
 weight = 3
