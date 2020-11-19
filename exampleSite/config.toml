@@ -48,11 +48,6 @@ name = "contact"
 pre = "#"
 url = "contact"
 weight = 7
-[[Languages.en.menu.main]]
-name = "themefisher"
-pre = ""
-url = "https://themefisher.com/"
-weight = 8
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2020 BRAV"
@@ -61,7 +56,7 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[Languages.fr.menu.main]]
-name = "sur"
+name = "Agence"
 pre = "#"
 url = "about"
 weight = 1
@@ -95,11 +90,6 @@ name = "contact"
 pre = "#"
 url = "contact"
 weight = 7
-[[Languages.fr.menu.main]]
-name = "themefisher"
-pre = ""
-url = "https://themefisher.com/"
-weight = 8
 [params]
 author = "Brav"
 description = "BRAV Boris Rybaltchenko Architecture Vivante"
