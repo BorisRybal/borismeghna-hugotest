@@ -5,10 +5,10 @@ paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
 themesDir = "../.."
-title = "BRAV Boris Rybaltchenko Architecture Vivante"
+title = "BRAV - Boris Rybaltchenko Architecture Vivante"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 BRAV"
+copyright = "Copyright &copy; 2021 BRAV"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
@@ -50,7 +50,7 @@ url = "contact"
 weight = 7
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Copyright &copy; 2020 BRAV"
+copyright = "Copyright &copy; 2021 BRAV"
 home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
@@ -92,9 +92,9 @@ url = "contact"
 weight = 7
 [params]
 author = "Brav"
-description = "BRAV Boris Rybaltchenko Architecture Vivante"
+description = "BRAV - Boris Rybaltchenko Architecture Vivante"
 google_analytics_id = ""
-logo = "images/essai_logo_brav.png"
+logo = "images/logo.png"
 post_share = true
 [params.cookies]
 enable = false
@@ -131,7 +131,7 @@ link = "plugins/lazy-load/lozad.min.js"
 link = "plugins/google-map/map.js"
 [params.preloader]
 enable = true
-preloader = "images/essai_logo_brav.png"
+preloader = "images/logo.png"
 [[params.social]]
 icon = "ti-facebook"
 link = "#"
