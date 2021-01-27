@@ -92,7 +92,7 @@ url = "contact"
 weight = 7
 [params]
 author = "BRAV - Boris Rybaltchenko Architecture Vivante"
-description = "BRAV - Batir Respect Autre Vivants"
+description = "BRAV - <b>B</b>âtir <b>R</b>espect <b>A</b>utre <b>V</b>ivants"
 google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
