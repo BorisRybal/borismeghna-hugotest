@@ -54,7 +54,7 @@ copyright = "Copyright &copy; 2021 BRAV"
 home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
-weight = 2
+weight = "1"
 [[Languages.fr.menu.main]]
 name = "Agence"
 pre = "#"
